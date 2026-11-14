@@ -37,3 +37,7 @@ for how to use it.
 | `terraform/main.tf` | B0 |
 | `terraform/lifecycle.tf` | B1 |
 | `app/access_control.py`, `scripts/cost_tag_check.py` | B2 — stubs to implement |
+
+## Screen Recording
+
+[Watch Complete Assignment Recording](https://drive.google.com/file/d/1gg3FRYkAGSasKOZrPDCLVXy-4fDm8t93/view?usp=drive_link)
